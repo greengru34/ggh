@@ -2,15 +2,16 @@
 
 
 ### What is SpuzlX?
-SpuzlX is web proxy provider
-SpuzlX has deployed many web proxys like Dogeub, Interstellar, and even Utopia
+- SpuzlX is web proxy hoster
+- SpuzlX has deployed many web proxys like Dogeub, Interstellar, and even Utopia
+- SpuzlX has also "cracked" many games like Minecraft
 
 ### Why use SpuzlX?
 SpuzlX is completly free and mostly add free
 SpuzlX has highly engaded devolopers reading every formum or question
 
 ### Socials
-You can follow our organization
+You can follow our official organization
 
     https://www.youtube.com/@GreenGru
 
