@@ -1,10 +1,10 @@
-# GGH
+# GG
 
 
-### What is GGH?
-- GGH is web proxy hoster
-- GGH has deployed many web proxys like Dogeub, Interstellar, and even Utopia
-- GGH has also "cracked" many games like Minecraft and Cookie Clicker
+### What is GG?
+- GG or GreenGr is a web proxy hoster
+- GG has deployed many web proxys like Dogeub, Interstellar, and even Utopia
+- GG has also "cracked" many games like Minecraft and Cookie Clicker
 
 ### Why use GGH?
 GGH is completly free and ad free
@@ -13,7 +13,7 @@ GGH has highly engaged devolopers reading every forum or question
 ### Socials
 You can follow our official organization
 
-    https://www.youtube.com/@GreenGru
+    https://www.youtube.com/@GreenGru3
 
 ### Discord Server
     Discord Server
